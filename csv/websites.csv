@@ -1,0 +1,5 @@
+name,path
+youtube, ./sites/local/youtube/youtube.html
+lanacion, https://www.lanacion.com.ar/
+trello,	./sites/local/trello/trello.html
+eldia,	https://www.eldia.com/
