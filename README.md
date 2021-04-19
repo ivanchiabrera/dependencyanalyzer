@@ -1,3 +1,5 @@
+You can analyze websites to find out what modules they use.
+
 # Deploy local application
 ### Requirements
   - NPM v6.14.18
